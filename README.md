@@ -1,1 +1,1 @@
-A simple page with menu fore cafe from freeCodeCamp
+A simple page with menu for cafe from freeCodeCamp
